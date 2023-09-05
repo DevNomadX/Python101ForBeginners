@@ -3,7 +3,6 @@
 Welcome to the "Learning Python for Beginners" repository! If you're new to programming or looking to start your journey with Python, you're in the right place.
 
 📚 What You'll Find Here:
-- **Beginner-Friendly Tutorials:** Step-by-step tutorials and explanations to help you grasp Python's fundamentals.
 - **Code Examples:** Real-world Python code examples and projects to reinforce your learning.
 - **Practice Exercises:** A collection of exercises with solutions to test your understanding and improve your skills.
 - **Useful Resources:** Links to external Python resources, books, and documentation to deepen your knowledge.
@@ -21,7 +20,5 @@ Python is a versatile and beginner-friendly programming language known for its s
 🙌 Contribute:
 If you're an experienced Python developer, we welcome your contributions. Feel free to submit pull requests, share your own tutorials, or help improve existing content. Let's make this repository an invaluable resource for beginners worldwide!
 
-📌 Join Us:
-Join our growing community of Python learners on [our Discord server](#) to connect with fellow learners, ask questions, and share your progress.
 
 Happy coding! Let's embark on this Python adventure together. 🚀
