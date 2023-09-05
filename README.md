@@ -1,4 +1,4 @@
-#🐍 Learning Python for Beginners 🚀
+#🐍 Learning Python for Beginners 🚀#
 
 Welcome to the "Learning Python for Beginners" repository! If you're new to programming or looking to start your journey with Python, you're in the right place.
 
