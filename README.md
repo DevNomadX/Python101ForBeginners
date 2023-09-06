@@ -1,6 +1,6 @@
 🐍 Learning Python for Beginners 🚀
 
-Welcome to the "Learning Python for Beginners" repository! If you're new to programming or looking to start your journey with Python, you're in the right place.
+Welcome to the "Python for Beginners" repository! This repository is created by Sk Monir for the purpose of helping students at Model Polytechnic Institute learn Python programming. Whether you're a beginner or looking to refresh your Python skills, you'll find valuable resources and examples here.
 
 📚 What You'll Find Here:
 - **Code Examples:** Real-world Python code examples and projects to reinforce your learning.
