@@ -3,7 +3,7 @@
 Problem 3: define the area of triangle
 
 """
-# Base of ��📐
+# Base of 📐
 base = 5
 # Hight of 📐
 hight = 9
