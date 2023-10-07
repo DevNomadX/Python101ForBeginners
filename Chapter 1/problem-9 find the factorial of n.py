@@ -1,7 +1,7 @@
 n = 10
 
 if n < 0:
-    print("Negetive number not allow")
+    print("Negative number not allow")
 
 elif n == 0:
     print(1)

@@ -1,5 +1,5 @@
 """
-Problem 5: Get Fahrenheit Temp from Keybord And Convert into Celsius
+Problem 5: Get Fahrenheit Temp from Keyboard And Convert into Celsius
 
 """
 
